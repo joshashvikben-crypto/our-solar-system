@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Our Solar System</title>
+  <style>
+    /* PART 4: colour the heading */
+    .planet-title {
+      /* YOUR CODE HERE */
+      /* Add  color: orange;  (any colour you like) */
+    }
+  </style>
+</head>
+<body>
+  <p id="description"></p>
+  <script>
+    // PART 1: make the heading
+    // YOUR CODE HERE
+    // Create an h1 element and save it in a variable called title.
+    // Give title the class name "planet-title".
+    // Put the words "Our Solar System" inside title.
+
+    // PART 2: put the heading on the page
+    // YOUR CODE HERE
+    // Add title to the START of the body (prepend, not append).
+
+    // PART 3: write the description
+    // YOUR CODE HERE
+    // Find the paragraph with id "description".
+    // Write 3 planets with 1 fact each inside it (see the fact list).
+  </script>
+</body>
+</html>
